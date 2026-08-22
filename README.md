@@ -50,7 +50,7 @@ Cara 3: Menggunakan Node.js / NPX
  1. Buka terminal di folder proyek.
  2. Jalankan perintah: npx serve
  3. Buka link yang tertera di terminal.
-🇬🇧 English
+## 🇬🇧 English
 This project is a web-based recreation of the classic Flappy Bird game built using HTML5 Canvas, CSS3, and Vanilla JavaScript without external frameworks.
 It is fully responsive across mobile and desktop devices, featuring a built-in language toggle.
 
