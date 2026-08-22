@@ -9,7 +9,8 @@
 
 ## 📢 Disclaimer / Penafian
 
-* **🇮🇩 Bahasa Indonesia:** Proyek ini adalah rekreasi independen (fan-made clone) berbasis web yang dibuat hanya untuk tujuan edukasi dan portofolio. Proyek ini **BUKAN** game resmi Flappy Bird® dan tidak memiliki afiliasi, hubungan, atau dukungan resmi dari pencipta aslinya (**Dong Nguyen**) maupun **.GEARS Studios**. Seluruh hak cipta dan merek dagang dari konsep game asli tetap dimiliki oleh pemilik resminya.** 
+* **🇮🇩 Bahasa Indonesia:** Proyek ini adalah rekreasi independen (fan-made clone) berbasis web yang dibuat hanya untuk tujuan edukasi dan portofolio. Proyek ini **BUKAN** game resmi Flappy Bird® dan tidak memiliki afiliasi, hubungan, atau dukungan resmi dari pencipta aslinya (**Dong Nguyen**) maupun **.GEARS Studios**. Seluruh hak cipta dan merek dagang dari konsep game asli tetap dimiliki oleh pemilik resminya.**
+ 
 **🇬🇧 English:** This project is an independent,web-based fan-made recreation built solely for educational and portfolio purposes. This is **NOT** the official Flappy Bird® game and is not affiliated with, endorsed by, or connected to the original creator (**Dong Nguyen**) or **.GEARS Studios**. All trademarks and copyrights of the original game concept belong to their respective owners.
 
 ---
@@ -87,12 +88,3 @@ Method 3: Using Node.js / NPX
 1. Open terminal inside the project directory.
 2. Run: npx serve
 3. Open the local address printed in the terminal.
-
-📂 Directory Structure / Struktur Folder
-
-.
-├── assets/
-│   ├── audio/        # Sound effects (.ogg)
-│   └── img/          # Game sprites & textures (.png)
-├── index.html        # Main HTML & Game Logic
-└── README.md         # Documentation
