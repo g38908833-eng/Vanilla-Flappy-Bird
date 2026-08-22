@@ -88,3 +88,4 @@ Method 3: Using Node.js / NPX
 1. Open terminal inside the project directory.
 2. Run: npx serve
 3. Open the local address printed in the terminal.
+🔗 Live Demo: vanillaflappybird.netlify.app
